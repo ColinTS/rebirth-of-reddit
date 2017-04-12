@@ -34,7 +34,7 @@ body {
   flex-direction: column;
   align-items: center; }
   #content .card {
-    width: 80%;
+    width: 95%;
     background-color: white;
     margin-top: 5%;
     display: flex;
