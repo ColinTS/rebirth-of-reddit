@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Plus</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="500" height="500"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="500" height="500" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Plus">
+            <use id="Rectangle" stroke="#E17417" mask="url(#mask-2)" stroke-width="26" xlink:href="#path-1"></use>
+            <path d="M251.5,81.5 L251.5,425.5" id="Line" stroke="#AB4424" stroke-width="39" stroke-linecap="square"></path>
+            <path d="M251.5,81.5 L251.5,425.5" id="Line-Copy" stroke="#AB4424" stroke-width="39" stroke-linecap="square" transform="translate(251.500000, 253.500000) rotate(90.000000) translate(-251.500000, -253.500000) "></path>
+        </g>
+    </g>
+</svg>

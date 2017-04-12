@@ -1,0 +1,64 @@
+body {
+  background-color: #AB4424;
+  margin: 0;
+}
+
+.top-nav {
+  background-color: white;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  #nav-logo, #plus {
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+}
+
+#nav-buttons{
+  display: flex;
+  align-content: stretch;
+  justify-content: center;
+
+  #random, #boards, #app {
+    border: none;
+    background-color: #3A3A3C;
+    width: 35%;
+    height: 50px;
+    color: grey;
+  }
+
+  #random {
+    border-right: solid 2px grey;
+  }
+
+  #app {
+    border-left: solid 2px grey;
+  }
+}
+
+#content{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+  .card{
+    width: 80%;
+    background-color: white;
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+    img {
+      height: 90%;
+      width: 90%;
+    }
+  }
+}
+
